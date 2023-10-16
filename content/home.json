@@ -3,6 +3,10 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner-desconto-topo-teste.gif"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
