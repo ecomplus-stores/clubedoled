@@ -1,6 +1,14 @@
 {
   "sections": [
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/banner-desconto-topo-teste.gif"
+        }
+      ]
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     },
