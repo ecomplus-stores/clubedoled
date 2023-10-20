@@ -1,5 +1,5 @@
 {
   "css": "",
   "html_head": "",
-  "html_body": "<script>\nconst placeholders = [\"Placeholder 1\", \"Placeholder 2\", \"Placeholder 3\"]; // Add more placeholders as needed\nlet currentPlaceholderIndex = 0;\nconst placeholderInput = document.getElementById(\"search-input\")\n\nfunction changePlaceholder() {\nplaceholderInput.placeholder = placeholders[currentPlaceholderIndex];\ncurrentPlaceholderIndex = (currentPlaceholderIndex + 1) % placeholders.length;\n}\n\nsetInterval(changePlaceholder, 1000); // Change placeholder every 1 second (1000 milliseconds)\n</script>"
+  "html_body": "<script>\nconst placeholders = [\"Spot Led 5w\", \"Lâmpada Wifi\", \"Interruptor Inteligente\"]; // Add more placeholders as needed\nlet currentPlaceholderIndex = 0;\nconst placeholderInput = document.getElementById(\"search-input\")\n\nfunction changePlaceholder() {\nplaceholderInput.placeholder = placeholders[currentPlaceholderIndex];\ncurrentPlaceholderIndex = (currentPlaceholderIndex + 1) % placeholders.length;\n}\n\nsetInterval(changePlaceholder, 1000); // Change placeholder every 1 second (1000 milliseconds)\n</script>"
 }
