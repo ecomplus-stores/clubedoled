@@ -1,22 +1,26 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos em",
-    "link": "todo o Brasil!"
+    "text": "todo o Brasil!",
+    "link": "",
+    "title": "Entregamos em "
   },
   "installments": {
     "show": true,
-    "text": "Pague em até",
-    "link": "12x sem juros"
+    "text": "12x sem juros",
+    "link": "",
+    "title": "Pague em até"
   },
   "exchange": {
     "show": true,
-    "text": "Garantia Devolução",
-    "link": "Por nossa conta"
+    "text": "Por nossa conta",
+    "link": "",
+    "title": "Garantia Devolução"
   },
   "promo": {
     "show": true,
-    "text": "Desconto para pagamentos",
-    "link": "á vista no Pix ou Boleto"
+    "text": "á vista no Pix ou Boleto",
+    "link": "",
+    "title": "Desconto para pagamentos"
   }
 }
