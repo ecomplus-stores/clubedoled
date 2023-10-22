@@ -1,18 +1,22 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Entregamos em",
+    "link": "todo o Brasil!"
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "Pague em até",
+    "link": "12x sem juros"
   },
   "exchange": {
     "show": true,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "text": "Garantia Devolução",
+    "link": "Por nossa conta"
   },
   "promo": {
     "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
+    "text": "Desconto para pagamentos",
+    "link": "á vista no Pix ou Boleto"
   }
 }
