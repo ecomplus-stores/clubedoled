@@ -1,16 +1,20 @@
 {
   "sections": [
     {
-      "type": "banners-grid",
-      "banners": [
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
         {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/banner-desconto-topo-teste.gif"
         }
       ]
-    },
-    {
-      "type": "breadcrumbs",
-      "enabled": true
     },
     {
       "type": "product-block",
