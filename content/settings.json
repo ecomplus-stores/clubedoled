@@ -1,12 +1,12 @@
 {
   "domain": "clubedoled.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#004d94",
+  "primary_color": "#fff200",
   "theme": {
     "bootswatch": "litera",
     "custom": "clean-white"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#004d94",
   "repository": "ecomplus-stores/clubedoled",
   "logo": "/img/uploads/logo_clube_do_led_horizontal_4.png",
   "name": "Clube do Led",
@@ -15,12 +15,12 @@
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "Montserrat",
-  "favicon": "/img/uploads/favicon.png",
+  "favicon": "/img/uploads/clube-do-led-favicon.png",
   "icons_font": "line-awesome",
   "country_code": "BR",
-  "secondary_color": "#fff200",
-  "icon": "/img/icon.png",
+  "secondary_color": "#004d94",
+  "icon": "/img/uploads/clube-do-led-favicon.png",
   "store_id": 51447,
-  "description": "clubedoled",
-  "large_icon": "/img/large-icon.png"
+  "description": "No Clube do LED, você encontra lâmpadas e spots LED de alta qualidade, com foco na eficiência, economia e versatilidade.",
+  "large_icon": "/img/uploads/clube-do-led-favicon-grande.png"
 }
