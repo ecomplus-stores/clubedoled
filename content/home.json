@@ -29,10 +29,6 @@
       "enabled": true
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/banner-desconto-topo-teste.gif"
-    },
-    {
       "autoplay": 1,
       "page": 1,
       "title": "Novidades",
