@@ -8,12 +8,12 @@
       "full_width": true,
       "slides": [
         {
-          "img": "/img/uploads/banner-black-friday.jpg",
+          "img": "/img/uploads/banner-normal.jpg",
           "link": "/BlackWeek",
           "alt": "Black Week",
           "start": "",
           "end": "",
-          "mobile_img": "/img/uploads/banner-black-friday-mobile.jpg"
+          "mobile_img": "/img/uploads/banner-normal-mobile.jpg"
         },
         {
           "start": "",
