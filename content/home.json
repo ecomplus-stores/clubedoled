@@ -8,6 +8,12 @@
       "full_width": true,
       "slides": [
         {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-pra-quem-e-clube.jpg",
+          "mobile_img": "/img/uploads/banner-pra-quem-e-clube.jpg"
+        },
+        {
           "img": "/img/uploads/banner-normal.jpg",
           "link": "/BlackWeek",
           "alt": "Black Week",
@@ -21,12 +27,6 @@
           "img": "/img/uploads/banner-normal.jpg",
           "alt": "Black Week",
           "mobile_img": "/img/uploads/banner-normal-mobile.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner-pra-quem-e-clube.jpg",
-          "mobile_img": "/img/uploads/banner-pra-quem-e-clube.jpg"
         }
       ]
     },
