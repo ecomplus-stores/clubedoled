@@ -32,7 +32,8 @@
       "alt": "Let's Encrypt"
     },
     {
-      "link": "<g:ratingbadge merchant_id=MERCHANT_ID></g:ratingbadge>​"
+      "link": "<g:ratingbadge merchant_id=5318424236></g:ratingbadge>​",
+      "src": "/img/uploads/customer-reviews.png"
     }
   ],
   "payment_methods": {
