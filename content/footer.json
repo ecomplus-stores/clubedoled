@@ -1,7 +1,7 @@
 {
   "description": {
     "title": "",
-    "text": ""
+    "text": "<g:ratingbadge merchant_id=MERCHANT_ID></g:ratingbadge>​"
   },
   "links_1": {
     "list_pages": true,
