@@ -11,7 +11,8 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/banner-pra-quem-e-clube.jpg",
-          "mobile_img": "/img/uploads/banner-pra-quem-e-clube-mobile.jpg"
+          "mobile_img": "/img/uploads/banner-pra-quem-e-clube-mobile.jpg",
+          "link": "/ofertas"
         },
         {
           "img": "/img/uploads/banner-normal.jpg",
