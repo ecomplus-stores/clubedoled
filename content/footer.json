@@ -1,7 +1,7 @@
 {
   "description": {
     "title": "",
-    "text": "<g:ratingbadge merchant_id=5318424236></g:ratingbadge>​"
+    "text": ""
   },
   "links_1": {
     "list_pages": true,
@@ -34,6 +34,9 @@
     {
       "link": "<g:ratingbadge merchant_id=5318424236></g:ratingbadge>​",
       "src": "/img/uploads/customer-reviews.png"
+    },
+    {
+      "src": "/img/uploads/reclame-aqui-2023.png"
     }
   ],
   "payment_methods": {
