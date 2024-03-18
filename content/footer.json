@@ -30,6 +30,9 @@
     {
       "src": "/img/uploads/letsencrypt-socialshare.png",
       "alt": "Let's Encrypt"
+    },
+    {
+      "link": "<g:ratingbadge merchant_id=MERCHANT_ID></g:ratingbadge>​"
     }
   ],
   "payment_methods": {
