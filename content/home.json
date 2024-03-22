@@ -62,6 +62,11 @@
       "limit": 12,
       "collection_id": null,
       "sort": "news"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "sales"
     }
   ]
 }
